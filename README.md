@@ -13,6 +13,7 @@
 
 ---
 
+
 ## 1. Proje Hakkında
 
   - **Tür:** Android Mobil Uygulama
@@ -23,12 +24,12 @@
 Bu Android uygulaması TensorFlow Lite kullanılarak `https://www.tensorflow.org/lite/examples/object_detection/overview?hl=tr` adresinden indirilen örnek meta verileri ile nesne tanıma işlemlerini gerçekleştirmek için geliştirilmiştir. Cihazın kamerasına erişim sağlandıktan sonra kameradan gelen görüntüler gerçek zamanlı olarak taranır ve tanımlanan nesneler kutu içinde gösterilir.
 
 
-
 ## 2. Ekran Görüntüleri
 
 |  ![Ekran Görüntüsü 1](./README%20RESOURCES/Ekran%20Görüntüsü%201.jpg) | ![Ekran Görüntüsü 2](./README%20RESOURCES/Ekran%20Görüntüsü%202.jpg) |
 |                        -------------                                  |                       -------------                                  |
 |  ![Ekran Görüntüsü 3](./README%20RESOURCES/Ekran%20Görüntüsü%203.jpg) | ![Ekran Görüntüsü 4](./README%20RESOURCES/Ekran%20Görüntüsü%204.jpg) |                                                                   |
+
 
 ## 3. Video
 
@@ -44,6 +45,7 @@ Bu Android uygulaması TensorFlow Lite kullanılarak `https://www.tensorflow.org
 - **Teknolojiler:**
   - ViewBinding
   - Coroutines
+
 
 ## 5. Uygulamayı Çalıştırma
 
@@ -61,9 +63,11 @@ Uygulamayı kendi bilgisayarınıza indirmek, çalıştırmak veya kodları ince
 - **Versiyon Adı:** `1.1`
 - **Versiyon Kodu:** `2`
 
+
 ## 7. Lisans
 
 Bu proje [GNU General Public License v3.0](LICENSE) altında lisanslanmıştır. Detaylar için lisans dosyasını inceleyebilirsiniz.
+
 
 ## 8. İletişim
 
