@@ -20,7 +20,7 @@
     - Kamera
     - Uyanma Kilidi (WAKE_LOCK)
 
-Bu Android uygulaması TensorFlow Lite kullanarak `https://www.tensorflow.org/lite/examples/object_detection/overview?hl=tr` adresinden indirilen örnek meta verileri ile nesne tanıma işlemlerini gerçekleştirmek için geliştirilmiştir. Cihazın kamerasına erişim sağlandıktan sonra kameradan gelen görüntüleri gerçek zamanlı olarak tarar ve tanımlayabildiği nesneleri kutu içinde gösterir.
+Bu Android uygulaması TensorFlow Lite kullanılarak `https://www.tensorflow.org/lite/examples/object_detection/overview?hl=tr` adresinden indirilen örnek meta verileri ile nesne tanıma işlemlerini gerçekleştirmek için geliştirilmiştir. Cihazın kamerasına erişim sağlandıktan sonra kameradan gelen görüntüler gerçek zamanlı olarak taranır ve tanımlanan nesneler kutu içinde gösterilir.
 
 
 
@@ -52,7 +52,7 @@ Uygulamayı kendi bilgisayarınıza indirmek, çalıştırmak veya kodları ince
 
 ## 6. APK Dosyası
 
-[Obje Tanıma.apk](./README%20RESOURCES/Obje%20Tanıma.apkk)
+[Obje Tanıma.apk](./README%20RESOURCES/Obje%20Tanıma.apk)
 
 |  Min SDK | Target SDK |
 | ------------- | ------------- |
