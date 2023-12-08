@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Obje Tanıma</string>
+    <string name="kapali">Kapalı</string>
+    <string name="acik">Açık</string>
+    <string name="obje_tanıma">Obje Tanıma:</string>
+    <string name="kamera">Kamera:</string>
+    <string name="imageview_contentDescription">İçerik Açıklaması</string>
+    <string name="objeleri_tanimla">Objeleri Tanımla</string>
+    <string name="kamerayi_ac">Kamerayı Aç</string>
+
+</resources>

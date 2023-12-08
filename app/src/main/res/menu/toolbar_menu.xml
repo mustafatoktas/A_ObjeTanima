@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/kamerayiAc_menuitem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_camera_alt_24"
+        android:title="@string/kamerayi_ac"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/tara_menuitem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_document_scanner_24"
+        android:title="@string/objeleri_tanimla"
+        app:showAsAction="always" />
+</menu>
