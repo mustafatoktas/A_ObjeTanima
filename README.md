@@ -56,7 +56,7 @@ Uygulamayı kendi bilgisayarınıza indirmek, çalıştırmak veya kodları ince
 
 [Obje Tanıma.apk](./README%20RESOURCES/Obje%20Tanıma.apk)
 
-|  Min SDK | Target SDK |
+|  Min API | Target API |
 | ------------- | ------------- |
 |  26 - Android 8.0 Oreo | 34 - Android 14.0 |
 - **Paket Adı:** `com.mustafatoktas.objetanima`
