@@ -1,23 +1,23 @@
-# A - Obje Tanıma
+<h1 align="center">Obje Tanıma</h1>
 
-<img src="./Readme Resources/Obje Tanıma Logo.png" alt="Logo" width="80" heigh="80"/>
-
-<br>
+<div align=center>
+  <img src="./Readme%20Resources/Obje Tanıma Logo.png" alt="Logo" width="120" heigh="120"/>
+</div>
 
 **İçindekiler**
 
-- [1. Uygulama Hakkında](#1-uygulama-hakkında)
-- [2. Ekran Görüntüleri](#2-ekran-görüntüleri)
-- [3. Video](#3-video)
-- [4. Kullanılan Teknoloji ve Kütüphaneler](#4-kullanılan-teknoloji-ve-kütüphaneler)
-- [5. Uygulamayı Çalıştırma](#5-uygulamayı-çalıştırma)
-- [6. Lisans](#6-lisans)
-- [7. İletişim](#7-i̇letişim)
+- [Uygulama Hakkında](#uygulama-hakkında)
+- [Ekran Görüntüleri](#ekran-görüntüleri)
+- [Video](#video)
+- [Kullanılan Teknoloji ve Kütüphaneler](#kullanılan-teknoloji-ve-kütüphaneler)
+- [Uygulamayı Çalıştırma](#uygulamayı-çalıştırma)
+- [Lisans](#lisans)
+- [İletişim](#i̇letişim)
 
----
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 
-## 1. Uygulama Hakkında
+## Uygulama Hakkında
 
 - **Tür:** Android Mobil Uygulama
 - **Kullanılan İzinler:** 
@@ -28,20 +28,26 @@ Bu Android uygulaması TensorFlow Lite kullanılarak `https://www.tensorflow.org
 adresinden indirilen örnek meta verileri ile nesne tanıma işlemlerini gerçekleştirmek için geliştirilmiştir.
 Cihazın kamerasına erişim sağlandıktan sonra kameradan gelen görüntüler gerçek zamanlı olarak taranır ve tanımlanan nesneler kutu içinde gösterilir.
 
-
-## 2. Ekran Görüntüleri
-
-|  ![Ekran Görüntüsü 1](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%201.jpg) | ![Ekran Görüntüsü 2](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%202.jpg) |
-|                        -------------                                                      |                       -------------                                                      |
-|  ![Ekran Görüntüsü 3](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%203.jpg) | ![Ekran Görüntüsü 4](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%204.jpg) |                                                                   |
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 
-## 3. Video
+## Ekran Görüntüleri
+
+| ![Ekran Görüntüsü 1](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%201.jpg) | ![Ekran Görüntüsü 2](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%202.jpg) |
+|      ------------------------------------------------------------------------------      |      ------------------------------------------------------------------------------      |
+| ![Ekran Görüntüsü 3](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%203.jpg) | ![Ekran Görüntüsü 4](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%204.jpg) |                                                                   |
+
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+
+
+## Video
 
 [Uygulama Tanıtım Videosu](https://youtu.be/RpdR251bvqw)
 
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
-## 4. Kullanılan Teknoloji ve Kütüphaneler
+
+## Kullanılan Teknoloji ve Kütüphaneler
 
 - `viewBinding`
 - `mlModelBinding`
@@ -51,18 +57,22 @@ Cihazın kamerasına erişim sağlandıktan sonra kameradan gelen görüntüler 
 - `implementation("androidx.lifecycle:lifecycle-livedata-ktx:2.7.0")`
 - `implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0")`
 
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
-## 5. Uygulamayı Çalıştırma
+
+## Uygulamayı Çalıştırma
 
 Uygulamanın proje dosyasını kendi bilgisayarınıza indirmek, kodları incelemek ve
-[lisans hakları](https://www.gnu.org/licenses/gpl-3.0.html) çerçevesinde geliştirme
+[lisans hakları](https://www.gnu.org/licenses/gpl-3.0.html) kapsamında geliştirme
 yapabilmek için [git](https://git-scm.com) yüklü bir bilgisayarda projeyi indirmek
 istediğiniz dosya yoluna gidip terminalde
 `git clone https://github.com/mustafatoktas/A_ObjeTanima.git`
 komutunu çalıştırabilirsiniz.
 
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
-## 6. Lisans
+
+## Lisans
     Copyright 2024 Mustafa TOKTAŞ
 
     Licensed under the GNU General Public License v3.0 (the "License");
@@ -77,9 +87,11 @@ komutunu çalıştırabilirsiniz.
     See the License for the specific language governing permissions and
     limitations under the License.
 
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
-## 7. İletişim
 
-<a href="mailto:info@mustafatoktas.com" target="_blank"> <img src="./Readme Resources/İletişim/Mail.png" alt="Mail" width="64" heigh="64"/> </a>
-<a href="https://t.me/mustafatoktas00" target="_blank"> <img src="./Readme Resources/İletişim/Telegram.png" alt="Telegram" width="64" heigh="64"/> </a>
+## İletişim
+
+<a href="mailto:info@mustafatoktas.com"              target="_blank"> <img src="./Readme Resources/İletişim/Mail.png"     alt="Mail"     width="64" heigh="64"/> </a>
+<a href="https://t.me/mustafatoktas00"               target="_blank"> <img src="./Readme Resources/İletişim/Telegram.png" alt="Telegram" width="64" heigh="64"/> </a>
 <a href="https://www.linkedin.com/in/mustafatoktas/" target="_blank"> <img src="./Readme Resources/İletişim/LinkedIn.png" alt="LinkedIn" width="64" heigh="64"/> </a>
