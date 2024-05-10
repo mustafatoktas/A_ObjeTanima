@@ -4,7 +4,7 @@
   <img src="./Readme%20Resources/Obje Tanıma Logo.png" alt="Logo" width="120" heigh="120"/>
 </div>
 
-**İçindekiler**
+## **İçindekiler**
 
 - [Uygulama Hakkında](#uygulama-hakkında)
 - [Ekran Görüntüleri](#ekran-görüntüleri)
