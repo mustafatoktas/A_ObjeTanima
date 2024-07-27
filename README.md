@@ -14,8 +14,8 @@
 - [Lisans](#lisans)
 - [İletişim](#i̇letişim)
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 ## Uygulama Hakkında
 
@@ -26,26 +26,32 @@
 
 Bu Android uygulaması TensorFlow Lite kullanılarak `https://www.tensorflow.org/lite/examples/object_detection/overview?hl=tr`
 adresinden indirilen örnek meta verileri ile nesne tanıma işlemlerini gerçekleştirmek için geliştirilmiştir.
-Cihazın kamerasına erişim sağlandıktan sonra kameradan gelen görüntüler gerçek zamanlı olarak taranır ve tanımlanan nesneler kutu içinde gösterilir.
+Cihazın kamerasına erişim sağlandıktan sonra kameradan gelen görüntüler gerçek zamanlı olarak taranır ve tanımlanan
+nesneler kutu içerisinde gösterilir.
+
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
-
 
 ## Ekran Görüntüleri
 
+Ekran görüntüleri uygulamanın v1.1.0 sürümünden alınmıştır. Yeni sürümlerde arayüz değiştirilmiş,
+uygulama genelinde iyileştirme veya geliştirme yapılmış olabilir.
+
 | ![Ekran Görüntüsü 1](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%201.jpg) | ![Ekran Görüntüsü 2](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%202.jpg) |
-|      ------------------------------------------------------------------------------      |      ------------------------------------------------------------------------------      |
+| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | ![Ekran Görüntüsü 3](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%203.jpg) | ![Ekran Görüntüsü 4](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%204.jpg) |                                                                   |
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 ## Video
 
+<img align="left" src="./Readme Resources/Video/YouTube.png" alt="Youtube" width="30"/>
+
 [Uygulama Tanıtım Videosu](https://youtu.be/RpdR251bvqw)
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 ## Kullanılan Teknoloji ve Kütüphaneler
 
@@ -57,20 +63,23 @@ Cihazın kamerasına erişim sağlandıktan sonra kameradan gelen görüntüler 
 - `implementation("androidx.lifecycle:lifecycle-livedata-ktx:2.7.0")`
 - `implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0")`
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 ## Uygulamayı Çalıştırma
 
-Uygulamanın proje dosyasını kendi bilgisayarınıza indirmek, kodları incelemek ve
-[lisans hakları](https://www.gnu.org/licenses/gpl-3.0.html) kapsamında geliştirme
-yapabilmek için [git](https://git-scm.com) yüklü bir bilgisayarda projeyi indirmek
-istediğiniz dosya yoluna gidip terminalde
-`git clone https://github.com/mustafatoktas/A_ObjeTanima.git`
-komutunu çalıştırabilirsiniz.
+- Uygulamanın proje dosyasını kendi bilgisayarınıza indirmek, kodları incelemek ve
+  [lisans hakları](https://www.gnu.org/licenses/gpl-3.0.html) kapsamında geliştirme
+  yapabilmek için [git](https://git-scm.com) yüklü bir bilgisayarda projeyi indirmek
+  istediğiniz dosya yoluna gidip terminalde
+  `git clone https://github.com/mustafatoktas/A_ObjeTanima.git`
+  komutunu çalıştırabilirsiniz.
+
+- [Releases](https://github.com/mustafatoktas/A_ObjeTanima/releases) sayfasına gidip
+  uygulamanın en güncel sürümünü indirebilirsiniz.
+
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
-
 
 ## Lisans
     Copyright 2024 Mustafa TOKTAŞ
@@ -87,8 +96,8 @@ komutunu çalıştırabilirsiniz.
     See the License for the specific language governing permissions and
     limitations under the License.
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 ## İletişim
 
