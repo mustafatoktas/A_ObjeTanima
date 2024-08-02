@@ -17,6 +17,11 @@
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
+<a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github/repo-visitor-counter.php?repo=xhsp3bde85zvgja&show_repo_name=1&show_date=1&show_brand=0" alt="Repo Visitor Counter"/> </a>
+
+
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+
 ## Uygulama Hakkında
 
 - **Tür:** Android Mobil Uygulama
