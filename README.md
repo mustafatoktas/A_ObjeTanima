@@ -41,9 +41,9 @@ nesneler kutu içerisinde gösterilir.
 
 Ekran görüntüleri uygulamanın v1.1.0 sürümünden alınmıştır. Yeni sürümlerde arayüz tamamen yada kısmi olarak değiştirilmiş olabilir.
 
-| ![Ekran Görüntüsü 1](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%201.jpg) | ![Ekran Görüntüsü 2](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%202.jpg) |
-| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| ![Ekran Görüntüsü 3](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%203.jpg) | ![Ekran Görüntüsü 4](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%204.jpg) |                                                                   |
+| ![Ekran Görüntüsü 1](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%201.jpg) | ![Ekran Görüntüsü 2](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%202.jpg) | ![Ekran Görüntüsü 3](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%203.jpg) |
+| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| ![Ekran Görüntüsü 4](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%204.jpg) |                                                   
 
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
